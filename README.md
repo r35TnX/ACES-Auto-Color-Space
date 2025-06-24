@@ -1,4 +1,4 @@
-## ACES Auto Color Space
+## ACES Auto Color Space [blender addon]
 
 **Version:** 1.4  
 **Blender:** 4.2.0+  
